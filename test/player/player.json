@@ -1,0 +1,1874 @@
+{
+  "frames": {
+    "feet:walk:0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 14,
+              "y": 14
+            },
+            {
+              "x": 14,
+              "y": 12
+            },
+            {
+              "x": 18,
+              "y": 12
+            },
+            {
+              "x": 18,
+              "y": 19
+            },
+            {
+              "x": 14,
+              "y": 19
+            }
+          ],
+          [
+            {
+              "x": 7,
+              "y": 12
+            },
+            {
+              "x": 11,
+              "y": 12
+            },
+            {
+              "x": 11,
+              "y": 19
+            },
+            {
+              "x": 7,
+              "y": 19
+            }
+          ]
+        ],
+        "layer": "feet",
+        "tag": "walk",
+        "index": 0
+      }
+    },
+    "feet:walk:1": {
+      "frame": {
+        "x": 25,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 14,
+              "y": 14
+            },
+            {
+              "x": 18,
+              "y": 13
+            },
+            {
+              "x": 18,
+              "y": 20
+            },
+            {
+              "x": 14,
+              "y": 20
+            }
+          ],
+          [
+            {
+              "x": 7,
+              "y": 11
+            },
+            {
+              "x": 11,
+              "y": 11
+            },
+            {
+              "x": 11,
+              "y": 18
+            },
+            {
+              "x": 7,
+              "y": 18
+            }
+          ]
+        ],
+        "layer": "feet",
+        "tag": "walk",
+        "index": 1
+      }
+    },
+    "feet:walk:2": {
+      "frame": {
+        "x": 50,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 14,
+              "y": 14
+            },
+            {
+              "x": 18,
+              "y": 14
+            },
+            {
+              "x": 18,
+              "y": 21
+            },
+            {
+              "x": 14,
+              "y": 21
+            }
+          ],
+          [
+            {
+              "x": 7,
+              "y": 11
+            },
+            {
+              "x": 11,
+              "y": 11
+            },
+            {
+              "x": 11,
+              "y": 18
+            },
+            {
+              "x": 7,
+              "y": 18
+            }
+          ]
+        ],
+        "layer": "feet",
+        "tag": "walk",
+        "index": 2
+      }
+    },
+    "feet:walk:3": {
+      "frame": {
+        "x": 75,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 14,
+              "y": 14
+            },
+            {
+              "x": 18,
+              "y": 14
+            },
+            {
+              "x": 18,
+              "y": 21
+            },
+            {
+              "x": 14,
+              "y": 21
+            }
+          ],
+          [
+            {
+              "x": 7,
+              "y": 12
+            },
+            {
+              "x": 11,
+              "y": 12
+            },
+            {
+              "x": 11,
+              "y": 19
+            },
+            {
+              "x": 7,
+              "y": 19
+            }
+          ]
+        ],
+        "layer": "feet",
+        "tag": "walk",
+        "index": 3
+      }
+    },
+    "feet:walk:4": {
+      "frame": {
+        "x": 100,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 14,
+              "y": 14
+            },
+            {
+              "x": 18,
+              "y": 13
+            },
+            {
+              "x": 18,
+              "y": 20
+            },
+            {
+              "x": 14,
+              "y": 20
+            }
+          ],
+          [
+            {
+              "x": 7,
+              "y": 13
+            },
+            {
+              "x": 11,
+              "y": 13
+            },
+            {
+              "x": 11,
+              "y": 20
+            },
+            {
+              "x": 7,
+              "y": 20
+            }
+          ]
+        ],
+        "layer": "feet",
+        "tag": "walk",
+        "index": 4
+      }
+    },
+    "feet:walk:5": {
+      "frame": {
+        "x": 125,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 14,
+              "y": 14
+            },
+            {
+              "x": 14,
+              "y": 12
+            },
+            {
+              "x": 18,
+              "y": 12
+            },
+            {
+              "x": 18,
+              "y": 19
+            },
+            {
+              "x": 14,
+              "y": 19
+            }
+          ],
+          [
+            {
+              "x": 7,
+              "y": 14
+            },
+            {
+              "x": 11,
+              "y": 14
+            },
+            {
+              "x": 11,
+              "y": 21
+            },
+            {
+              "x": 7,
+              "y": 21
+            }
+          ]
+        ],
+        "layer": "feet",
+        "tag": "walk",
+        "index": 5
+      }
+    },
+    "feet:walk:6": {
+      "frame": {
+        "x": 150,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 14,
+              "y": 14
+            },
+            {
+              "x": 14,
+              "y": 11
+            },
+            {
+              "x": 18,
+              "y": 11
+            },
+            {
+              "x": 18,
+              "y": 18
+            },
+            {
+              "x": 14,
+              "y": 18
+            }
+          ],
+          [
+            {
+              "x": 7,
+              "y": 14
+            },
+            {
+              "x": 11,
+              "y": 14
+            },
+            {
+              "x": 11,
+              "y": 21
+            },
+            {
+              "x": 7,
+              "y": 21
+            }
+          ]
+        ],
+        "layer": "feet",
+        "tag": "walk",
+        "index": 6
+      }
+    },
+    "feet:walk:7": {
+      "frame": {
+        "x": 175,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 14,
+              "y": 14
+            },
+            {
+              "x": 14,
+              "y": 11
+            },
+            {
+              "x": 18,
+              "y": 11
+            },
+            {
+              "x": 18,
+              "y": 18
+            },
+            {
+              "x": 14,
+              "y": 18
+            }
+          ],
+          [
+            {
+              "x": 7,
+              "y": 13
+            },
+            {
+              "x": 11,
+              "y": 13
+            },
+            {
+              "x": 11,
+              "y": 20
+            },
+            {
+              "x": 7,
+              "y": 20
+            }
+          ]
+        ],
+        "layer": "feet",
+        "tag": "walk",
+        "index": 7
+      }
+    },
+    "arms:walk:0": {
+      "frame": {
+        "x": 200,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 6,
+              "y": 6
+            },
+            {
+              "x": 9,
+              "y": 7
+            },
+            {
+              "x": 8,
+              "y": 15
+            },
+            {
+              "x": 4,
+              "y": 14
+            },
+            {
+              "x": 4,
+              "y": 8
+            }
+          ],
+          [
+            {
+              "x": 17,
+              "y": 5
+            },
+            {
+              "x": 21,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 14
+            },
+            {
+              "x": 16,
+              "y": 13
+            }
+          ]
+        ],
+        "layer": "arms",
+        "tag": "walk",
+        "index": 0
+      }
+    },
+    "arms:walk:1": {
+      "frame": {
+        "x": 200,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 6,
+              "y": 6
+            },
+            {
+              "x": 9,
+              "y": 7
+            },
+            {
+              "x": 8,
+              "y": 15
+            },
+            {
+              "x": 4,
+              "y": 14
+            },
+            {
+              "x": 4,
+              "y": 8
+            }
+          ],
+          [
+            {
+              "x": 17,
+              "y": 5
+            },
+            {
+              "x": 21,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 14
+            },
+            {
+              "x": 16,
+              "y": 13
+            }
+          ]
+        ],
+        "layer": "arms",
+        "tag": "walk",
+        "index": 1
+      }
+    },
+    "arms:walk:2": {
+      "frame": {
+        "x": 225,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 6,
+              "y": 6
+            },
+            {
+              "x": 9,
+              "y": 6
+            },
+            {
+              "x": 8,
+              "y": 14
+            },
+            {
+              "x": 4,
+              "y": 13
+            },
+            {
+              "x": 4,
+              "y": 7
+            }
+          ],
+          [
+            {
+              "x": 6,
+              "y": 5
+            },
+            {
+              "x": 8,
+              "y": 6
+            }
+          ],
+          [
+            {
+              "x": 17,
+              "y": 6
+            },
+            {
+              "x": 21,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 15
+            },
+            {
+              "x": 16,
+              "y": 14
+            }
+          ]
+        ],
+        "layer": "arms",
+        "tag": "walk",
+        "index": 2
+      }
+    },
+    "arms:walk:3": {
+      "frame": {
+        "x": 250,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 5,
+              "y": 5
+            },
+            {
+              "x": 9,
+              "y": 5
+            },
+            {
+              "x": 8,
+              "y": 13
+            },
+            {
+              "x": 4,
+              "y": 12
+            }
+          ],
+          [
+            {
+              "x": 6,
+              "y": 4
+            },
+            {
+              "x": 8,
+              "y": 5
+            }
+          ],
+          [
+            {
+              "x": 17,
+              "y": 7
+            },
+            {
+              "x": 21,
+              "y": 9
+            },
+            {
+              "x": 20,
+              "y": 16
+            },
+            {
+              "x": 16,
+              "y": 15
+            }
+          ]
+        ],
+        "layer": "arms",
+        "tag": "walk",
+        "index": 3
+      }
+    },
+    "arms:walk:4": {
+      "frame": {
+        "x": 275,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 6,
+              "y": 6
+            },
+            {
+              "x": 9,
+              "y": 6
+            },
+            {
+              "x": 8,
+              "y": 14
+            },
+            {
+              "x": 4,
+              "y": 13
+            },
+            {
+              "x": 4,
+              "y": 7
+            }
+          ],
+          [
+            {
+              "x": 6,
+              "y": 5
+            },
+            {
+              "x": 8,
+              "y": 6
+            }
+          ],
+          [
+            {
+              "x": 17,
+              "y": 7
+            },
+            {
+              "x": 21,
+              "y": 9
+            },
+            {
+              "x": 20,
+              "y": 16
+            },
+            {
+              "x": 16,
+              "y": 15
+            }
+          ]
+        ],
+        "layer": "arms",
+        "tag": "walk",
+        "index": 4
+      }
+    },
+    "arms:walk:5": {
+      "frame": {
+        "x": 300,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 6,
+              "y": 6
+            },
+            {
+              "x": 9,
+              "y": 7
+            },
+            {
+              "x": 8,
+              "y": 15
+            },
+            {
+              "x": 4,
+              "y": 14
+            },
+            {
+              "x": 4,
+              "y": 8
+            }
+          ],
+          [
+            {
+              "x": 17,
+              "y": 6
+            },
+            {
+              "x": 21,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 15
+            },
+            {
+              "x": 16,
+              "y": 14
+            }
+          ]
+        ],
+        "layer": "arms",
+        "tag": "walk",
+        "index": 5
+      }
+    },
+    "arms:walk:6": {
+      "frame": {
+        "x": 325,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 7,
+              "y": 7
+            },
+            {
+              "x": 9,
+              "y": 8
+            },
+            {
+              "x": 9,
+              "y": 15
+            },
+            {
+              "x": 5,
+              "y": 16
+            },
+            {
+              "x": 4,
+              "y": 9
+            }
+          ],
+          [
+            {
+              "x": 17,
+              "y": 5
+            },
+            {
+              "x": 21,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 14
+            },
+            {
+              "x": 16,
+              "y": 13
+            }
+          ]
+        ],
+        "layer": "arms",
+        "tag": "walk",
+        "index": 6
+      }
+    },
+    "arms:walk:7": {
+      "frame": {
+        "x": 325,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 7,
+              "y": 7
+            },
+            {
+              "x": 9,
+              "y": 8
+            },
+            {
+              "x": 9,
+              "y": 15
+            },
+            {
+              "x": 5,
+              "y": 16
+            },
+            {
+              "x": 4,
+              "y": 9
+            }
+          ],
+          [
+            {
+              "x": 17,
+              "y": 5
+            },
+            {
+              "x": 21,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 14
+            },
+            {
+              "x": 16,
+              "y": 13
+            }
+          ]
+        ],
+        "layer": "arms",
+        "tag": "walk",
+        "index": 7
+      }
+    },
+    "body:walk:0": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 8
+            },
+            {
+              "x": 22,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 17
+            },
+            {
+              "x": 4,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 11
+            },
+            {
+              "x": 5,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "body",
+        "tag": "walk",
+        "index": 0
+      }
+    },
+    "body:walk:1": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 8
+            },
+            {
+              "x": 22,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 17
+            },
+            {
+              "x": 4,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 11
+            },
+            {
+              "x": 5,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "body",
+        "tag": "walk",
+        "index": 1
+      }
+    },
+    "body:walk:2": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 8
+            },
+            {
+              "x": 22,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 17
+            },
+            {
+              "x": 4,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 11
+            },
+            {
+              "x": 5,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "body",
+        "tag": "walk",
+        "index": 2
+      }
+    },
+    "body:walk:3": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 8
+            },
+            {
+              "x": 22,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 17
+            },
+            {
+              "x": 4,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 11
+            },
+            {
+              "x": 5,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "body",
+        "tag": "walk",
+        "index": 3
+      }
+    },
+    "body:walk:4": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 8
+            },
+            {
+              "x": 22,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 17
+            },
+            {
+              "x": 4,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 11
+            },
+            {
+              "x": 5,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "body",
+        "tag": "walk",
+        "index": 4
+      }
+    },
+    "body:walk:5": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 8
+            },
+            {
+              "x": 22,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 17
+            },
+            {
+              "x": 4,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 11
+            },
+            {
+              "x": 5,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "body",
+        "tag": "walk",
+        "index": 5
+      }
+    },
+    "body:walk:6": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 8
+            },
+            {
+              "x": 22,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 17
+            },
+            {
+              "x": 4,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 11
+            },
+            {
+              "x": 5,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "body",
+        "tag": "walk",
+        "index": 6
+      }
+    },
+    "body:walk:7": {
+      "frame": {
+        "x": 350,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 8,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 8
+            },
+            {
+              "x": 22,
+              "y": 11
+            },
+            {
+              "x": 21,
+              "y": 17
+            },
+            {
+              "x": 4,
+              "y": 17
+            },
+            {
+              "x": 3,
+              "y": 11
+            },
+            {
+              "x": 5,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "body",
+        "tag": "walk",
+        "index": 7
+      }
+    },
+    "gun:shoot:0": {
+      "frame": {
+        "x": 375,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 16,
+              "y": 2
+            },
+            {
+              "x": 21,
+              "y": 2
+            },
+            {
+              "x": 22,
+              "y": 7
+            },
+            {
+              "x": 20,
+              "y": 10
+            },
+            {
+              "x": 16,
+              "y": 9
+            }
+          ],
+          [
+            {
+              "x": 15,
+              "y": 5
+            },
+            {
+              "x": 16,
+              "y": 7
+            }
+          ]
+        ],
+        "layer": "gun",
+        "tag": "shoot",
+        "index": 0
+      }
+    },
+    "gun:shoot:1": {
+      "frame": {
+        "x": 400,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 16,
+              "y": 4
+            },
+            {
+              "x": 21,
+              "y": 4
+            },
+            {
+              "x": 22,
+              "y": 9
+            },
+            {
+              "x": 20,
+              "y": 12
+            },
+            {
+              "x": 16,
+              "y": 11
+            }
+          ],
+          [
+            {
+              "x": 15,
+              "y": 7
+            },
+            {
+              "x": 16,
+              "y": 9
+            }
+          ]
+        ],
+        "layer": "gun",
+        "tag": "shoot",
+        "index": 1
+      }
+    },
+    "gun:shoot:2": {
+      "frame": {
+        "x": 400,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 16,
+              "y": 4
+            },
+            {
+              "x": 21,
+              "y": 4
+            },
+            {
+              "x": 22,
+              "y": 9
+            },
+            {
+              "x": 20,
+              "y": 12
+            },
+            {
+              "x": 16,
+              "y": 11
+            }
+          ],
+          [
+            {
+              "x": 15,
+              "y": 7
+            },
+            {
+              "x": 16,
+              "y": 9
+            }
+          ]
+        ],
+        "layer": "gun",
+        "tag": "shoot",
+        "index": 2
+      }
+    },
+    "gun:shoot:3": {
+      "frame": {
+        "x": 425,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 16,
+              "y": 3
+            },
+            {
+              "x": 21,
+              "y": 3
+            },
+            {
+              "x": 22,
+              "y": 8
+            },
+            {
+              "x": 20,
+              "y": 11
+            },
+            {
+              "x": 16,
+              "y": 10
+            }
+          ],
+          [
+            {
+              "x": 15,
+              "y": 6
+            },
+            {
+              "x": 16,
+              "y": 8
+            }
+          ]
+        ],
+        "layer": "gun",
+        "tag": "shoot",
+        "index": 3
+      }
+    }
+  },
+  "meta": {
+    "app": "http://www.aseprite.org/",
+    "version": "1.2.17",
+    "image": "player.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 450,
+      "h": 25
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "walk",
+        "from": 1,
+        "to": 8,
+        "direction": "forward"
+      },
+      {
+        "name": "shoot",
+        "from": 9,
+        "to": 12,
+        "direction": "forward"
+      }
+    ],
+    "layers": [
+      {
+        "name": "feet",
+        "opacity": 255,
+        "blendMode": "normal"
+      },
+      {
+        "name": "arms",
+        "opacity": 255,
+        "blendMode": "normal"
+      },
+      {
+        "name": "gun",
+        "opacity": 255,
+        "blendMode": "normal"
+      },
+      {
+        "name": "body",
+        "opacity": 255,
+        "blendMode": "normal"
+      },
+      {
+        "name": "feet",
+        "opacity": 255,
+        "blendMode": "normal"
+      },
+      {
+        "name": "arms",
+        "opacity": 255,
+        "blendMode": "normal"
+      },
+      {
+        "name": "gun",
+        "opacity": 255,
+        "blendMode": "normal"
+      },
+      {
+        "name": "body",
+        "opacity": 255,
+        "blendMode": "normal"
+      }
+    ],
+    "slices": []
+  }
+}

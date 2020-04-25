@@ -1,0 +1,1593 @@
+{
+  "frames": {
+    "floor:default:0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 0
+      }
+    },
+    "floor:default:1": {
+      "frame": {
+        "x": 16,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 1
+      }
+    },
+    "floor:default:2": {
+      "frame": {
+        "x": 32,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 2
+      }
+    },
+    "floor:default:3": {
+      "frame": {
+        "x": 48,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 3
+      }
+    },
+    "floor:default:4": {
+      "frame": {
+        "x": 64,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 4
+      }
+    },
+    "floor:default:5": {
+      "frame": {
+        "x": 80,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 5
+      }
+    },
+    "floor:default:6": {
+      "frame": {
+        "x": 96,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 6
+      }
+    },
+    "floor:default:7": {
+      "frame": {
+        "x": 112,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 7
+      }
+    },
+    "floor:default:8": {
+      "frame": {
+        "x": 128,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 8
+      }
+    },
+    "floor:default:9": {
+      "frame": {
+        "x": 144,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 9
+      }
+    },
+    "floor:default:10": {
+      "frame": {
+        "x": 160,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 10
+      }
+    },
+    "floor:default:11": {
+      "frame": {
+        "x": 176,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 11
+      }
+    },
+    "floor:default:12": {
+      "frame": {
+        "x": 192,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 12
+      }
+    },
+    "floor:default:13": {
+      "frame": {
+        "x": 208,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 13
+      }
+    },
+    "floor:default:14": {
+      "frame": {
+        "x": 224,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 14
+      }
+    },
+    "floor:default:15": {
+      "frame": {
+        "x": 240,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "floor",
+        "tag": "default",
+        "index": 15
+      }
+    },
+    "wall:default:0": {
+      "frame": {
+        "x": 0,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [],
+        "layer": "wall",
+        "tag": "default",
+        "index": 0
+      }
+    },
+    "wall:default:1": {
+      "frame": {
+        "x": 16,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 6,
+              "y": 0
+            },
+            {
+              "x": 6,
+              "y": 7
+            },
+            {
+              "x": 4,
+              "y": 9
+            },
+            {
+              "x": 0,
+              "y": 9
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 1
+      }
+    },
+    "wall:default:2": {
+      "frame": {
+        "x": 32,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 10,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 9
+            },
+            {
+              "x": 12,
+              "y": 9
+            },
+            {
+              "x": 10,
+              "y": 7
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 2
+      }
+    },
+    "wall:default:3": {
+      "frame": {
+        "x": 48,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 9
+            },
+            {
+              "x": 0,
+              "y": 9
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 3
+      }
+    },
+    "wall:default:4": {
+      "frame": {
+        "x": 64,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 13
+            },
+            {
+              "x": 5,
+              "y": 13
+            },
+            {
+              "x": 6,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 4
+      }
+    },
+    "wall:default:5": {
+      "frame": {
+        "x": 80,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 6,
+              "y": 0
+            },
+            {
+              "x": 6,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 5
+      }
+    },
+    "wall:default:6": {
+      "frame": {
+        "x": 96,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 10,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 9
+            },
+            {
+              "x": 12,
+              "y": 9
+            },
+            {
+              "x": 10,
+              "y": 7
+            }
+          ],
+          [
+            {
+              "x": 0,
+              "y": 13
+            },
+            {
+              "x": 5,
+              "y": 13
+            },
+            {
+              "x": 6,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 6
+      }
+    },
+    "wall:default:7": {
+      "frame": {
+        "x": 112,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 9
+            },
+            {
+              "x": 6,
+              "y": 9
+            },
+            {
+              "x": 6,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 7
+      }
+    },
+    "wall:default:8": {
+      "frame": {
+        "x": 128,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 13,
+              "y": 13
+            },
+            {
+              "x": 16,
+              "y": 13
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 10,
+              "y": 16
+            },
+            {
+              "x": 10,
+              "y": 14
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 8
+      }
+    },
+    "wall:default:9": {
+      "frame": {
+        "x": 144,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 6,
+              "y": 0
+            },
+            {
+              "x": 6,
+              "y": 7
+            },
+            {
+              "x": 4,
+              "y": 9
+            },
+            {
+              "x": 0,
+              "y": 9
+            }
+          ],
+          [
+            {
+              "x": 13,
+              "y": 13
+            },
+            {
+              "x": 16,
+              "y": 13
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 10,
+              "y": 16
+            },
+            {
+              "x": 10,
+              "y": 14
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 9
+      }
+    },
+    "wall:default:10": {
+      "frame": {
+        "x": 160,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 10,
+              "y": 10
+            },
+            {
+              "x": 10,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 10,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 10
+      }
+    },
+    "wall:default:11": {
+      "frame": {
+        "x": 176,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 10,
+              "y": 16
+            },
+            {
+              "x": 10,
+              "y": 9
+            },
+            {
+              "x": 0,
+              "y": 9
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 11
+      }
+    },
+    "wall:default:12": {
+      "frame": {
+        "x": 192,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 13,
+              "y": 13
+            },
+            {
+              "x": 16,
+              "y": 14
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 13
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 12
+      }
+    },
+    "wall:default:13": {
+      "frame": {
+        "x": 208,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 6,
+              "y": 0
+            },
+            {
+              "x": 6,
+              "y": 13
+            },
+            {
+              "x": 16,
+              "y": 13
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 13
+      }
+    },
+    "wall:default:14": {
+      "frame": {
+        "x": 224,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 1,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 10,
+              "y": 10
+            },
+            {
+              "x": 10,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 13
+            },
+            {
+              "x": 9,
+              "y": 13
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 14
+      }
+    },
+    "wall:default:15": {
+      "frame": {
+        "x": 240,
+        "y": 16,
+        "w": 16,
+        "h": 16
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 16
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 32
+      },
+      "duration": 100,
+      "meta": {
+        "polygons": [
+          [
+            {
+              "x": 0,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 0
+            },
+            {
+              "x": 16,
+              "y": 16
+            },
+            {
+              "x": 0,
+              "y": 16
+            }
+          ]
+        ],
+        "layer": "wall",
+        "tag": "default",
+        "index": 15
+      }
+    }
+  },
+  "meta": {
+    "app": "http://www.aseprite.org/",
+    "version": "1.2.17",
+    "image": "tilemap.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 256,
+      "h": 32
+    },
+    "scale": "1",
+    "frameTags": [
+      {
+        "name": "default",
+        "from": 0,
+        "to": 15,
+        "direction": "forward"
+      }
+    ],
+    "layers": [
+      {
+        "name": "floor",
+        "opacity": 255,
+        "blendMode": "normal"
+      },
+      {
+        "name": "wall",
+        "opacity": 255,
+        "blendMode": "normal"
+      }
+    ],
+    "slices": []
+  }
+}
